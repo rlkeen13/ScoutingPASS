@@ -30,17 +30,6 @@ var config_data = `
       "size": 20,
       "maxSize": 50
     },
-    { "name": "Drivetrain Motor",
-      "code": "mot",
-      "type": "radio",
-      "choices": {
-        "n": "Neo<br>",
-        "f": "Falcon<br>",
-        "c": "CIM<br>",
-        "x": "Other<br>"
-      },
-      "defaultValue":"x"
-    },
     { "name": "Floor pickup Cones",
       "code": "fco",
       "type": "bool"
