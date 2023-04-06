@@ -17,7 +17,7 @@ var config_data = `
       "code": "e",
       "gsCol": "event",
       "type": "event",
-      "defaultValue": "2023vagle",
+      "defaultValue": "2023chcmp",
       "required": "true",
       "disabled": "true"
     },
